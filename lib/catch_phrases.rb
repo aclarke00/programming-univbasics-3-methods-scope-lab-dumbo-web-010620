@@ -9,6 +9,11 @@ def toadstool
   puts $STATUS
 end
 
+def link 
+  phrase "It's Dangerous To Go Alone! Take This."
+  puts phrase
+end
+
 def any_phrase 
   phrase = "Do A Barrel Roll!"
   puts phrase
