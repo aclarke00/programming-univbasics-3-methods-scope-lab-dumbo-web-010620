@@ -8,3 +8,6 @@ end
 def toadstool
   puts $STATUS
 end
+
+def any_phrase 
+  
